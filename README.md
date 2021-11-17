@@ -24,7 +24,7 @@ born2beroot								|	[born2beroot/](https://github.com/somedevv/born2beroot)		| 
 |:-----------------------------------:|:------------------:|:--------------:|:--------------:|
 push_swap | [push_swap/](https://github.com/somedevv/push_swap) | *.c, *.h, Makefile | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/push_swap)](https://github.com/somedevv/push_swap) |
 so_long | [so_long/](https://github.com/somedevv/so_long) | *.c, *.h, Makefile, Lmlx | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/so_long)](https://github.com/somedevv/so_long) |
-Pipex | [Pipex/](https://github.com/somedevv/pipex) | *.c, *.h, Makefile | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/pipex)](https://github.com/somedevv/pipex) |
+pipex | [pipex/](https://github.com/somedevv/pipex) | *.c, *.h, Makefile | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/pipex)](https://github.com/somedevv/pipex) |
 
 ## Rank 4
 
