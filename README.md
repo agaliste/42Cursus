@@ -30,4 +30,4 @@ pipex | [pipex/](https://github.com/somedevv/pipex) | *.c, *.h, Makefile | [![ag
 
 |			Name				|	Directory	| Repo Files | Mark |
 |:-----------------------------------:|:------------------:|:--------------:|:--------------:|
-|Module 00								|	[Module 00/](https://github.com/somedevv/CPP_Module_00)		| [ex00/](https://github.com/somedevv/CPP_Module_00/ex00) [ex01/](https://github.com/somedevv/CPP_Module_00/ex01) ex02/ | Not Subscribed Yet |
+|Module 00								|	[Module 00/](https://github.com/somedevv/CPP_Module_00)		| [ex00/](https://github.com/somedevv/CPP_Module_00/tree/master/ex00) [ex01/](https://github.com/somedevv/CPP_Module_00/tree/master/ex01) ex02/ | Not Subscribed Yet |
