@@ -8,7 +8,7 @@ These are all my projects in the 42Cursus of [42Madrid Fundación Telefónica](h
 
 |			Name				|	Directory	| Repo Files | Mark |
 |:-----------------------------------:|:------------------:|:--------------:|:--------------:|
-libft								|	[libft/](https://github.com/somedevv/42-Cursus/tree/master/Rank%200/libft)		| *.c, libft.h, Makefile | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/Libft)](https://github.com/somedevv/42-Cursus/tree/master/Rank%200/libft) |
+libft								|	[libft/](https://github.com/somedevv/libft)		| *.c, libft.h, Makefile | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/Libft)](https://github.com/somedevv/42-Cursus/tree/master/Rank%200/libft) |
 
 ## Rank 1
 
