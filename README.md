@@ -2,7 +2,7 @@
 
 These are all my projects in the 42Cursus of [42 Madrid Fundación Telefónica](https://www.42madrid.com/).
 
-Full documentation of all the projects can be found here: https://agaliste.notion.site/42-Cursus-09fb84bb53c3406d80873b717b94bef6
+Full documentation of all the projects can be found here: https://somedevv.notion.site/42-Cursus-09fb84bb53c3406d80873b717b94bef6
 
 **ONLY USE THIS AS A REFERENCE, IF YOU COPY YOU RISK GETTING A -42!!**
 
@@ -27,6 +27,12 @@ born2beroot								|	[born2beroot/](https://github.com/somedevv/born2beroot)		| 
 push_swap | [push_swap/](https://github.com/somedevv/push_swap) | *.c, *.h, Makefile | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/push_swap)](https://github.com/somedevv/push_swap) |
 so_long | [so_long/](https://github.com/somedevv/so_long) | *.c, *.h, Makefile, Lmlx | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/so_long)](https://github.com/somedevv/so_long) |
 pipex | [pipex/](https://github.com/somedevv/pipex) | *.c, *.h, Makefile | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/pipex)](https://github.com/somedevv/pipex) |
+
+## Rank 3
+
+|			Name				|	Directory	| Repo Files | Mark |
+|:-----------------------------------:|:------------------:|:--------------:|:--------------:|
+Minishell | [Minishell/](https://github.com/42madorna/42_Minishell) | *.c, *.h, Makefile | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/minishell)](https://badge42.herokuapp.com/api/project/agaliste/minishell) |
 
 ## Rank 4
 
