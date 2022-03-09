@@ -1,6 +1,6 @@
 [![agaliste's 42 stats](https://badge42.herokuapp.com/api/stats/agaliste?privacyName=true&)](https://github.com/somedevv/42-Cursus)
 
-These are all my projects in the 42Cursus of [42 Madrid Fundación Telefónica](https://www.42madrid.com/).
+These are all my projects in the Cursus of [42 Madrid Fundación Telefónica](https://www.42madrid.com/).
 
 Full documentation of all the projects can be found here: https://somedevv.notion.site/42-Cursus-09fb84bb53c3406d80873b717b94bef6
 
