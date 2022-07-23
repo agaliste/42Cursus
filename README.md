@@ -1,4 +1,4 @@
-[![agaliste's 42 stats](https://badge42.herokuapp.com/api/stats/agaliste?privacyName=true&)](https://github.com/somedevv/42-Cursus)
+[![agaliste's 42 stats](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
 
 These are all my projects in the Cursus of [42 Madrid Fundación Telefónica](https://www.42madrid.com/).
 
@@ -10,29 +10,30 @@ Full documentation of all the projects can be found here: https://somedevv.notio
 
 |			Name				|	Directory	| Repo Files | Mark |
 |:-----------------------------------:|:------------------:|:--------------:|:--------------:|
-libft								|	[libft/](https://github.com/somedevv/libft)		| *.c, libft.h, Makefile | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/Libft)](https://github.com/somedevv/42-Cursus/tree/master/Rank%200/libft) |
+libft								|	[libft/](https://github.com/somedevv/libft)		| *.c, libft.h, Makefile | [![agaliste's 42 Libft Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2074299)](https://github.com/JaeSeoKim/badge42) |
 
 ## Rank 1
 
 |			Name				|	Directory	| Repo Files | Mark |
 |:-----------------------------------:|:------------------:|:--------------:|:--------------:|
-get_next_line								|	[get_next_line/](https://github.com/somedevv/get_next_line)		| get_next_line.c, get_next_line_utils.c, get_next_line.h | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/get_next_line)](https://github.com/somedevv/get_next_line) |
-printf								|	[ft_printf/](https://github.com/somedevv/ft_printf)		| *.c, *.h, Makefile | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/ft_printf)](https://github.com/somedevv/ft_printf) |
-born2beroot								|	[born2beroot/](https://github.com/somedevv/born2beroot)		| monitoring.sh | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/Born2beroot)](https://github.com/somedevv/born2beroot) |
+get_next_line								|	[get_next_line/](https://github.com/somedevv/get_next_line)		| get_next_line.c, get_next_line_utils.c, get_next_line.h | [![agaliste's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2095548)](https://github.com/JaeSeoKim/badge42) |
+printf								|	[ft_printf/](https://github.com/somedevv/ft_printf)		| *.c, *.h, Makefile | [![agaliste's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2292522)](https://github.com/JaeSeoKim/badge42) |
+born2beroot								|	[born2beroot/](https://github.com/somedevv/born2beroot)		| monitoring.sh | [![agaliste's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2289125)](https://github.com/JaeSeoKim/badge42) |
 
 ## Rank 2
 
 |			Name				|	Directory	| Repo Files | Mark |
 |:-----------------------------------:|:------------------:|:--------------:|:--------------:|
-push_swap | [push_swap/](https://github.com/somedevv/push_swap) | *.c, *.h, Makefile | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/push_swap)](https://github.com/somedevv/push_swap) |
-so_long | [so_long/](https://github.com/somedevv/so_long) | *.c, *.h, Makefile, Lmlx | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/so_long)](https://github.com/somedevv/so_long) |
-pipex | [pipex/](https://github.com/somedevv/pipex) | *.c, *.h, Makefile | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/pipex)](https://github.com/somedevv/pipex) |
+push_swap | [push_swap/](https://github.com/somedevv/push_swap) | *.c, *.h, Makefile | [![agaliste's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2413717)](https://github.com/JaeSeoKim/badge42) |
+so_long | [so_long/](https://github.com/somedevv/so_long) | *.c, *.h, Makefile, Lmlx | [![agaliste's 42 so_long Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2411242)](https://github.com/JaeSeoKim/badge42) |
+pipex | [pipex/](https://github.com/somedevv/pipex) | *.c, *.h, Makefile | [![agaliste's 42 pipex Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2411374)](https://github.com/JaeSeoKim/badge42) |
 
 ## Rank 3
 
 |			Name				|	Directory	| Repo Files | Mark |
 |:-----------------------------------:|:------------------:|:--------------:|:--------------:|
-Minishell | [Minishell/](https://github.com/42madorna/42_Minishell) | *.c, *.h, Makefile | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/minishell)](https://badge42.herokuapp.com/api/project/agaliste/minishell) |
+Minishell | [Minishell/](https://github.com/42madorna/42_Minishell) | *.c, *.h, Makefile | [![agaliste's 42 minishell Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2517630)](https://github.com/JaeSeoKim/badge42) |
+Philosophers | [philo/](https://github.com/some42/philo) | *.c, *.h, Makefile | [![agaliste's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2518347)](https://github.com/JaeSeoKim/badge42) |
 
 ## Rank 4
 
