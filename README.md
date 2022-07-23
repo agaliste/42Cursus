@@ -2,8 +2,6 @@
 
 These are all my projects in the Cursus of [42 Madrid Fundación Telefónica](https://www.42madrid.com/).
 
-Full documentation of all the projects can be found here: <https://somedevv.notion.site/42-Cursus-09fb84bb53c3406d80873b717b94bef6>
-
 **ONLY USE THIS AS A REFERENCE, IF YOU COPY YOU RISK GETTING A -42!!**
 
 ## Rank 0
